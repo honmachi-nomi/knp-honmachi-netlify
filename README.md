@@ -19,7 +19,7 @@ $ cd knp-honmachi-netlify
 ### Add content
 
 ステータス: 下書き（ `draft = true` ）の記事が `content/post/hoge.md` に作成されます。  
-** `draft = true` のまま公開ブランチに push しても公開されません。**
+**`draft = true` のまま公開ブランチに push しても公開されません。**
 
 ```bash
 $ hugo new post/hoge.md
