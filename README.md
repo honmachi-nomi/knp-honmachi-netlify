@@ -9,7 +9,7 @@ $ brew update && brew install hugo
 ```
 
 ```bash
-$ git clone git@github.com:honmachi-nomi/knp-honmachi-netlify.git
+$ git clone -b develop git@github.com:honmachi-nomi/knp-honmachi-netlify.git
 ```
 
 ```bash
