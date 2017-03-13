@@ -2,6 +2,12 @@
 
 [Hugo](https://gohugo.io/), [Netlify](https://www.netlify.com/), [GitHub](https://github.com/)
 
+## ブランチについて
+
+- `master`: 公開ブランチ
+- `develop`: Theme, サイト設定
+- `記事 post`: 記事投稿
+
 ## Getting Started
 
 ```bash
