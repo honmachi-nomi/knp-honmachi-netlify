@@ -4,6 +4,7 @@
     {{ partial "meta.html" . }}
     {{ with .Site.Params.googlefonts }}
     <link href="{{ . }}" rel="stylesheet">
+    <link rel="canonical" href="{{ .Permalink }}">
     {{ else }}
     <link href="//fonts.googleapis.com/css?family=Noto+Sans:400,700|Montserrat" rel="stylesheet">
     {{ end }}
