@@ -35,13 +35,25 @@ $ hugo undraft content/post/hoge.md
 
 ### Serve content
 
+現在使用中の Theme 名 [robust](https://github.com/dim0627/hugo_theme_robust) を引数でわたします。
+
 ```bash
 $ hugo server --theme=hugo_theme_robust
 ```
 
+config.toml に以下を書けば、省略することができます。
+
+```config.toml
+theme = "hugo_theme_robust"
+```
+
+```bash
+$ hugo server
+```
+
 <http://localhost:1313/>
 
-記事が下書き状態の時は以下のオプションが必要です。
+また下書き状態の記事を表示する際は以下のオプションも必要です。
 
 ```bash
 $ hugo server --buildDrafts --theme=hugo_theme_robust
