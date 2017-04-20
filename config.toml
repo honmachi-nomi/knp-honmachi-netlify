@@ -1,7 +1,7 @@
 title = "カンパイ本町"
-baseURL = "http://knp-honmachi.net/"
+baseURL = "https://knp-honmachi.net/"
 languageCode = "ja-jp"
 
 [author]
   name = "カンパイ本町"
-  homepage = "http://knp-honmachi.net/"
+  homepage = "https://knp-honmachi.net/"
