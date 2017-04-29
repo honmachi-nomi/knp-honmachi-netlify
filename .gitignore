@@ -1,5 +1,6 @@
 /node_modules
 /dist
+/public
 
 # Windows image file caches
 Thumbs.db
