@@ -12,7 +12,7 @@
       {{ end }}
     </ul>
 
-    <div class="summary">{{ .Summary }}</div>
+    <div class="summary">{{ .Summary | plainify | safeHTML }}</div>
     {{ if .Truncated }}
     <div class="read-more-link">
       <a href="{{ .RelPermalink }}">続きを読む</a>
