@@ -71,7 +71,7 @@ main {
 .l-header {
   background-color: #fff;
   margin-bottom: 1rem;
-  padding: 1rem 0;
+  padding: 1rem 0 0;
   text-align: center;
 }
 
@@ -459,4 +459,23 @@ article.li.sm .thumb {
 
 .article-body figcaption a {
   color: #263238;
+}
+
+.gnav {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 1em;
+}
+
+.gnav li {
+  list-style: none;
+}
+
+.gnav li a {
+  display: block;
+  padding: 0.5em;
+  text-decoration: none;
 }
