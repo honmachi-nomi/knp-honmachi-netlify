@@ -6,6 +6,9 @@ html {
   html {
     font-size: 100%;
   }
+  * {
+    word-wrap: break-word;
+  }
 }
 
 body {
