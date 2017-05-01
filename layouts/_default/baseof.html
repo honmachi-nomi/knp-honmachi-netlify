@@ -21,6 +21,10 @@
   </head>
 
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PG39JT"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     {{ if ne (getenv "HUGO_ENV") "DEV" }}
     {{ template "_internal/google_analytics.html" . }}
     {{ end }}
