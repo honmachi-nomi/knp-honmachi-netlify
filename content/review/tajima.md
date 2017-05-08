@@ -4,6 +4,7 @@ title = "「水七輪焼肉匠 たじま」でいい肉食べてきた"
 description = "大阪・本町の「水七輪焼肉匠 たじま」でいい肉食べてきました。"
 draft = false
 thumbnail = "/media/tajima/tajima-1-4.jpg"
+author = "shimakyohsuke"
 +++
 
 ## 忘年会なのでいい肉を食べてきました。
