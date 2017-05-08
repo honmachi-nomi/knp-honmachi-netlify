@@ -5,7 +5,7 @@ description = "肥後橋にあるおしゃれな雰囲気の焼き鳥屋に行�
 draft = false
 thumbnail = "/media/hittobe/hittobe6.jpg"
 title = "薩摩地鶏の焼き鳥が美味しいひっとべに行ってきました"
-
+author = "misumi_takuma"
 +++
 
 「ひっとべ」という名前の肥後橋にある焼き鳥屋に行ってきました。

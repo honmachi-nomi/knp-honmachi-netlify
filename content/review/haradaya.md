@@ -5,6 +5,7 @@ description = "ランチに江戸堀にある大衆ビストロ原田屋で手�
 draft = false
 thumbnail = "/media/haradaya/haradaya4.jpg"
 title = "大衆ビストロ原田屋で手ごねハンバーグを食べてきました"
+author = "misumi_takuma"
 
 +++
 
