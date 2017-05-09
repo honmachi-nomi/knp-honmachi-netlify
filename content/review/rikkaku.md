@@ -4,6 +4,7 @@ title = "本町界隈の鶏料理の救世主 鶏家 六角鶏 堺筋本町店�
 description = "本町にある焼鳥・炭火焼・居酒屋・ラーメン鶏家 六角鶏 堺筋本町店に行ってきました。"
 draft = false
 thumbnail = "/media/rikkaku/DSC06329.JPG"
+author = "maki_saki"
 +++
 
 いつものメンバーと「鶏家 六角鶏 堺筋本町店」に行ってました。

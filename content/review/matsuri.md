@@ -4,6 +4,7 @@ date = "2016-11-20T00:00:00+09:00"
 title = "川魚が食べられる「まつ里」に行ってきた！"
 draft = false
 thumbnail = "/media/matsuri/matsuri-amagosashi.jpg"
+author = "misumi_takuma"
 +++
 
 10月5日にオープンした「川魚料理 まつ里」に行ってきました。
