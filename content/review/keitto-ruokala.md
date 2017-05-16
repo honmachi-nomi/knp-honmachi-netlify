@@ -5,7 +5,7 @@ description = "おしゃれな雰囲気に誘われて、ふらっと立ち寄�
 draft = false
 thumbnail = "/media/keitto-ruokala/keitto-ruokala4.jpg"
 title = "おしゃれな食堂 Keitto Ruokala（ケイットルオカラ）の日替わりランチを食べて来ました"
-
+author = "misumi_takuma"
 +++
 
 お昼時に本町エリアを歩いていたところ、おしゃれな雰囲気のお店があったので入ってみました。
