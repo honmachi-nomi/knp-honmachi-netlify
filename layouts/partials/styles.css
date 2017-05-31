@@ -74,7 +74,7 @@ main {
 .l-header {
   background-color: #fff;
   margin-bottom: 1rem;
-  padding: 1rem 0 0;
+  padding: 3rem 0 0;
   text-align: center;
 }
 
@@ -206,6 +206,10 @@ section.article-footer>header {
   font-size: 1.4rem;
   line-height: 2rem;
   color: #000;
+}
+
+.p-logo a img {
+  max-width: 50%;
 }
 
 /* Parts:crumb */

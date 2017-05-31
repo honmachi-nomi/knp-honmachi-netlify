@@ -59,6 +59,10 @@ title = "十三のなまらぴりかでめちゃくちゃ美味しい餃子を�
 
 ずっとテンプレのままだったカンパイ本町のブログにようやくロゴができました！
 
+<p style="text-align: center;">
+<img src="/images/logo.png" srcset="/images/logo@2x.png 2x" alt="カンパイ本町" style="max-width: 80%;">
+</p>
+
 ロゴを作ってくれたのは、デザイナーであり、ビリヤード仲間でもあるアシュウくんです！
 
 [ROOM302|ギャラリーページ](http://302.office-ashu.com/gallery/)
@@ -69,4 +73,4 @@ title = "十三のなまらぴりかでめちゃくちゃ美味しい餃子を�
 
 Twitterもやってますよ。
 
-[カンパイ本町Twitter](https://twitter.com/kanpaihonmachi)
+[カンパイ本町 Twitter](https://twitter.com/kanpaihonmachi)
