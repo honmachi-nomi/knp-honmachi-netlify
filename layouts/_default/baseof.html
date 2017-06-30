@@ -47,6 +47,7 @@
         <ul class="gnav">
           <li><a href="/contact/">お問い合わせ</a></li>
           <li><a href="/about/">俺たちについて</a></li>
+          <li><a href="/provide-information/">あなたのオススメのお店を教えてください！</a></li>
         </ul>
       </div>
     </header>
@@ -63,14 +64,8 @@
           <li><a href="https://twitter.com/kanpaihonmachi"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i></a></li>
           <li><a href="https://www.facebook.com/kanpaihonmachi/"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i></a></li>
           <li><a href="https://github.com/honmachi-nomi"><i class="fa fa-github-square fa-3x" aria-hidden="true"></i></a></li>
-
-
         </ul>
-        <p>{{ with .Site.Copyright }}{{ . | safeHTML }}{{ else }}<span class="h-logo">&copy; {{ .Site.Title }}</span>{{ end }}</p>
-        <aside>
-          <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
-          <p><a href="https://github.com/dim0627/hugo_theme_robust">Robust</a> designed by <a href="http://yet.unresolved.xyz/">Daisuke Tsuji</a>.</p>
-        </aside>
+        <div style="text-align: center;"><small>{{ with .Site.Copyright }}{{ . | safeHTML }}{{ else }}<span class="h-logo">&copy; {{ .Site.Title }}</span>{{ end }}</small></div>
       </div>
     </footer>
 
