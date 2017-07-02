@@ -28,7 +28,7 @@ $ cd knp-honmachi-netlify
 **`draft = true` のまま公開ブランチに push しても公開されません。**
 
 ```bash
-$ hugo new post/hoge.md
+$ hugo new review/hoge.md
 ```
 
 #### Make posts public
