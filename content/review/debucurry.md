@@ -1,10 +1,11 @@
 +++
 title = "元祖でぶカレーという店名に惹かれデブが来店"
 draft = false
+date = "2017-07-02T13:51:03+09:00"
 thumbnail = "/media/debucurry/3.jpg"
 description = "元祖でぶカレーにデブが挑戦"
 categories = [ "review" ]
-author = "maki_saki"
+author = "conti"
 +++
 
 今回は本町にある「[元祖でぶカレー](https://tabelog.com/osaka/A2701/A270106/27098888/)」というお店にやってきました。
