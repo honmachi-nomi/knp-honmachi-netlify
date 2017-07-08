@@ -53,7 +53,7 @@ title = "並んでも行くべき！てんこ盛りのウニやイクラ、マ�
 
 とよは早めに行くのをオススメします！
 
-あと、Twitterで写真載せたら、「**痛風スターターキット**」っていうパワーワードが生まれました。
+あと、Twitterで写真載せたら、「**痛風スターターキット**」って言われました。
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">進捗です <a href="https://t.co/gsy085RdA1">pic.twitter.com/gsy085RdA1</a></p>&mdash; ▲ (@misumi_takuma) <a href="https://twitter.com/misumi_takuma/status/883609659269013504">2017年7月8日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
