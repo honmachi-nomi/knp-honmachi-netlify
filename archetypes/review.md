@@ -1,4 +1,5 @@
 +++
+date = ""
 title = ""
 draft = false
 thumbnail = "/media/hoge/hoge.jpg"
