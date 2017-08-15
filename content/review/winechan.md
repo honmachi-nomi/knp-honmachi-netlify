@@ -1,11 +1,12 @@
 +++
-title = "アメトーーク!で紹介されていた絶品ハンバーグが食べられるワインちゃん！"
-draft = false
-date = "2017-08-15T11:23:35+09:00"
-thumbnail = "/media/winechan/winechan5.jpg"
-description = "テレビでも紹介される美味しいハンバーグを食べてきました。"
-categories = ["review"]
 author = "misumi_takuma"
+categories = ["review"]
+date = "2017-08-15T11:50:34+09:00"
+description = "テレビでも紹介される美味しいハンバーグを食べてきました。"
+draft = false
+thumbnail = "/media/winechan/winechan5.jpg"
+title = "アメトーーク!で紹介されていた絶品ハンバーグが食べられるワインちゃん！"
+
 +++
 
 アメトーーク!で和牛の水田さんが紹介していたワインちゃんに行ってきました！
