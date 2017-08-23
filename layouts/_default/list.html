@@ -11,7 +11,7 @@
     {{ end }}
 
     <div class="row">
-      {{ range $i, $p := (.Paginate (where .Data.Pages "Type" "review")).Pages }}
+      {{ range $i, $p := (.Paginate .Data.Pages).Pages }}
       <div class="col-sm-6 col-xs-12">{{ $p.Render "li" }}</div>
       {{ if eq (mod (add $i 1) 2) 0 }}<div class="col-sm-12"></div>{{ end }}
       {{ end }}

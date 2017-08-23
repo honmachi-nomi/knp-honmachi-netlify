@@ -1,6 +1,7 @@
 title = "カンパイ本町"
 baseURL = "https://knp-honmachi.net/"
 languageCode = "ja-jp"
+theme = "hugo_theme_robust"
 
 [author]
   name = "カンパイ本町"
