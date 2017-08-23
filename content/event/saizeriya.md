@@ -13,7 +13,7 @@ author = "misumi_takuma"
 
 ## サイゼリヤミートアップとは？？
 
-[湊川 📖わかばちゃん](https://twitter.com/llminatoll) の「一緒にサイゼリアに行ける東京の友達がほしい」というツイートが発端で、関東のサイゼリヤで開催されたミートアップです。
+[湊川さん](https://twitter.com/llminatoll) の「一緒にサイゼリアに行ける東京の友達がほしい」というツイートが発端で、関東のサイゼリヤで開催されたミートアップです。
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">サイゼリヤミートアップのタグ作りました。サイゼリヤが好きなら今日からあなたも主催です。各地で自由に開催してください。<a href="https://twitter.com/hashtag/saizeriya_meetup?src=hash">#saizeriya_meetup</a> <a href="https://t.co/ntpGa2bby6">pic.twitter.com/ntpGa2bby6</a></p>&mdash; 湊川📖わかばちゃんと学ぶGit発売中 (@llminatoll) <a href="https://twitter.com/llminatoll/status/894823333589536769">2017年8月8日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
