@@ -1,5 +1,5 @@
 +++
-date = ""
+date = {{ .Date }}
 title = ""
 draft = false
 thumbnail = "/media/hoge/hoge.jpg"
