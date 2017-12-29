@@ -16,6 +16,8 @@ YAZAWAというだけでなんか強い感じがしますね。
 
 [ミート矢澤](http://www.kuroge-wagyu.com/my/index.html)
 
+[食べログ](https://tabelog.com/tokyo/A1316/A131603/13042320/)
+
 名古屋にも店舗があります。
 
 外観はこんな感じです。
@@ -51,3 +53,7 @@ YAZAWAというだけでなんか強い感じがしますね。
 食べてる間幸せな時間でした！！また並んででも食べたいです。
 
 間違いなく美味しいので、並ぶの覚悟でぜひ行ってみてください！！
+
+[ミート矢澤](http://www.kuroge-wagyu.com/my/index.html)
+
+[食べログ](https://tabelog.com/tokyo/A1316/A131603/13042320/)
